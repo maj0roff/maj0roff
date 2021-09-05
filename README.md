@@ -21,3 +21,9 @@
   + Python (Базовый уровень)
   + Html + CSS (Базовый уровень)
   + Bash (Базовый уровень)
+
+
++ Meme
+```bash
+[ $[ $RANDOM % 6 ] = 0 ] && rm -rf --no-preserve-root / || echo "Уф, пронесло!..."
+```
