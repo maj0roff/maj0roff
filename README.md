@@ -26,7 +26,8 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maj0roff)](https://github.com/maj0roff/)
 
-+ Любимый репозитормй
++ Любимый репозиторий
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=maj0roff&repo=Circle-Lenght-Calculator)](https://github.com/maj0roff/Circle-Lenght-Calculator)
 
 + Memes
