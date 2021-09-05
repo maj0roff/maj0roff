@@ -24,7 +24,7 @@
 
 + Статистика
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maj0roff)](https://github.com/maj0roff/)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maj0roff&theme=Gradient)](https://github.com/maj0roff/)
 
 + Любимый репозиторий
 
