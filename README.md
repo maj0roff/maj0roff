@@ -29,3 +29,4 @@
 [ $[ $RANDOM % 6 ] = 0 ] && rm -rf --no-preserve-root / || echo "Уф, пронесло!..."
 ```
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maj0roff)](https://github.com/anuraghazra/github-readme-stats)
