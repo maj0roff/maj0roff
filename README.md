@@ -23,7 +23,9 @@
   + Bash (Базовый уровень)
 
 
-+ Meme
++ Memes
+
 ```bash
 [ $[ $RANDOM % 6 ] = 0 ] && rm -rf --no-preserve-root / || echo "Уф, пронесло!..."
 ```
+
