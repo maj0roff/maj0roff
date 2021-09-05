@@ -28,11 +28,11 @@
 
 + Любимый репозиторий
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=maj0roff&repo=Circle-Lenght-Calculator)](https://github.com/maj0roff/Circle-Lenght-Calculator)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=maj0roff&repo=Circle-Lenght-Calculator&locale=ru)](https://github.com/maj0roff/Circle-Lenght-Calculator)
 
 + Языки которые я больше всего использовал в проектах
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maj0roff&layout=compact)](https://github.com/maj0roff)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maj0roff&layout=compact&locale=ru)](https://github.com/maj0roff)
 
 + Memes
 
