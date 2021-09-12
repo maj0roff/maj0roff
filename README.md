@@ -14,7 +14,7 @@
     + VK : https://vk.com/sapiernik
     + Discord : maj0r#0777
     + Twitch : https://www.twitch.tv/maj0r1koff
-    + YouGame : https://yougame.biz/members/93268/
+    + Telegram : @maj0roff
 
 + :computer: Знания языков програмирования
   + C++ (На стадии изучения)
