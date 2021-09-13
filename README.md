@@ -26,10 +26,6 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maj0roff&locale=ru)](https://github.com/maj0roff/)
 
-+ Любимый репозиторий
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=maj0roff&repo=Circle-Lenght-Calculator&locale=ru)](https://github.com/maj0roff/Circle-Lenght-Calculator)
-
 + Языки которые я больше всего использовал в проектах
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maj0roff&layout=compact&locale=ru)](https://github.com/maj0roff)
