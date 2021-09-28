@@ -12,7 +12,7 @@
     + Стриминг
   + Соц сети
     + VK : https://vk.com/sapiernik
-    + Discord : maj0r#0777
+    + Discord : maj0r#4630
     + Twitch : https://www.twitch.tv/maj0r1koff
     + Telegram : @maj0roff
 
