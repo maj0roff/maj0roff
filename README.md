@@ -17,9 +17,9 @@
     + Telegram : @maj0roff
 
 + :computer: Знания языков програмирования
-  + C++ (На стадии изучения)
+  + C++ (Junior-Middle)
   + Lua (Glua + ffi)
-  + Python (Базовый уровень)
+  + Python (Junior)
   + Html + CSS (Базовый уровень)
   + Bash (Базовый уровень)
 
