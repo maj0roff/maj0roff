@@ -18,7 +18,7 @@
 
 + :computer: Знания языков програмирования
   + C++ (Junior-Middle)
-  + Lua (Glua + ffi)
+  + Lua (Glua + Basic)
   + Python (Junior)
   + Html + CSS (Базовый уровень)
   + Bash (Базовый уровень)
