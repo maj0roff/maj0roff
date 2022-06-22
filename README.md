@@ -3,16 +3,17 @@
 + Обо мне
   + Имя : Александр
   + Возраст : 14 лет
-  + Любимые занятия
-    + Програмирование
-    + Дизайн
-    + Игры
+  + Чем занимаюсь и над чем работаю
+    + Разработка программ на C++
+    + Разработка игровых серверов CS:GO
+    + Разработка UIX дизайна
+    + Создание графического дизайна
   + Соц сети
     + VK : https://vk.com/sapiernik
     + Discord : maj0r#4630
     + Telegram : @maj0roff
 
-+ :computer: Знания языков програмирования
++ Знания языков програмирования
   + C++ (Middle)
   + Lua (Middle)
   + Python (Junior)
@@ -24,3 +25,8 @@
 + Языки которые я больше всего использовал в проектах
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maj0roff&layout=compact&locale=ru)](https://github.com/maj0roff)
+
++ Проекты и работа
+  + 2022 Год
+    + Разработчик игровых серверов HYPERPC
+    + Проект hysteria.lua
