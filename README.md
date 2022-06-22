@@ -8,20 +8,17 @@
   + Ос которую использую : Windows 10 PRO 
   + Любимые занятия
     + Програмирование
-    + Компьютерные игры
-    + Стриминг
+    + Дизайн
+    + Игры
   + Соц сети
     + VK : https://vk.com/sapiernik
     + Discord : maj0r#4630
-    + Twitch : https://www.twitch.tv/maj0r1koff
     + Telegram : @maj0roff
 
 + :computer: Знания языков програмирования
-  + C++ (Junior-Middle)
-  + Lua (Glua + Basic)
+  + C++ (Middle)
+  + Lua (Middle)
   + Python (Junior)
-  + Html + CSS (Базовый уровень)
-  + Bash (Базовый уровень)
 
 + Статистика
 
@@ -30,9 +27,3 @@
 + Языки которые я больше всего использовал в проектах
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maj0roff&layout=compact&locale=ru)](https://github.com/maj0roff)
-
-+ Memes
-
-```bash
-[ $[ $RANDOM % 6 ] = 0 ] && rm -rf --no-preserve-root / || echo "Уф, пронесло!..."
-```
