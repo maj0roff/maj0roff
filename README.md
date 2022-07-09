@@ -14,6 +14,7 @@
     + Telegram : @maj0roff
 
 + Знания языков програмирования
+
   ![C++](https://github.com/maj0roff/maj0roff/blob/main/Group%205.png?raw=true)
   ![LUA](https://github.com/maj0roff/maj0roff/blob/main/Group%207.png?raw=true)
   ![Python](https://github.com/maj0roff/maj0roff/blob/main/Group%204.png?raw=true)
