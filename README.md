@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=13DA14&lines=maj0rcode;maj0rdesign)](https://git.io/typing-svg)
 maj0roff / profile <<<<<<<<<<<<<<<<<<
 
 + maj0r / about me >>>>>>>>
