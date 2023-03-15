@@ -12,7 +12,7 @@ maj0roff / profile <<<<<<<<<<<<<<<<<<
     + Разработка UIX дизайна
     + Создание графического дизайна
   + Соц сети
-    + VK : https://vk.com/sapiernik
+    + VK : https://vk.com/maj0rdesigner
     + Discord : maj0r#4630
     + Telegram : @maj0roff
     
