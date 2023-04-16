@@ -13,3 +13,8 @@
     }
 
 --- json end ---
+
+contact info:
+
+ - discord -> maj0r#4630
+ - telegram -> https://t.me/maj0roff
