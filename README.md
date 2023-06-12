@@ -4,7 +4,8 @@
     {
         "object": "maj0r (Alexander)",
         "info": {
-            "about_me": "information security specialist, c++ & python programmer, ui/ux & gfx designer",
+            "about_me": "information security specialist",
+            "skills" : ["python", "go", "c++", "ui/ux design", "graphical design"]
             "country": "russia",
             "languages": "ru, en, de",
             "projects": "ltcp security, hysteria.lua, maj0rdesign",
