@@ -18,4 +18,4 @@
 contact info:
 
  - discord -> maj0r#4630
- - telegram -> [https://t.me/maj0roff](https://t.me/maj0rblog)https://t.me/maj0rblog
+ - telegram -> https://t.me/maj0rblog
