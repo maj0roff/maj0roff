@@ -4,12 +4,12 @@
     {
         "object": "maj0r (Alexander)",
         "info": {
-            "about_me": "information security specialist",
-            "skills" : ["python", "go", "c++", "ui/ux design", "graphical design"]
+            "about_me": "16 y.o. product designer from Chelyabinsk",
+            "skills" : ["python", "product design"]
             "country": "russia",
             "languages": "ru, en, de",
-            "projects": "ltcp security, hysteria.lua, maj0rdesign",
-            "old_projects": "HYPERPC game servers"
+            "projects": "commate",
+            "old_projects": "HYPERPC game servers, hysteria.lua"
         }
     }
 
@@ -17,5 +17,5 @@
 
 contact info:
 
- - discord -> maj0r#4630
+ - discord -> .maj0r
  - telegram -> https://t.me/maj0rblog
