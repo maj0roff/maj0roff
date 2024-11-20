@@ -8,7 +8,7 @@
             "skills" : ["python", "product design"]
             "country": "russia",
             "languages": "ru, en, de",
-            "projects": "commate",
+            "projects": ["commate", "6ixty6ix"],
             "old_projects": "HYPERPC game servers, hysteria.lua"
         }
     }
