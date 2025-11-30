@@ -4,11 +4,11 @@
     {
         "object": "maj0r (Alexander)",
         "info": {
-            "about_me": "16 y.o. product designer from Chelyabinsk",
-            "skills" : ["python", "product design"]
+            "about_me": "18 y.o. product designer from Chelyabinsk",
+            "skills" : ["python", "c++", "product design"]
             "country": "russia",
             "languages": "ru, en, de",
-            "projects": ["commate", "sixtysix"],
+            "projects": ["commate"],
             "old_projects": "HYPERPC game servers, hysteria.lua"
         }
     }
